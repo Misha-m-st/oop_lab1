@@ -9,5 +9,7 @@ int main() {
     int b = 9;
     std::cout << "Sum: " << addition(a, b) << std::endl;
     std::cout << "Subtraction: " << subtraction(a, b) << std::endl;
+
+    std::cout << "Teested" << std::endl;
     return 0;
 }
